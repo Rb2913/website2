@@ -10,6 +10,9 @@ p {
 h2 {
   font-size: 2.2vw; /* Esempio di dimensione del testo basata su rem */
 }
+li {
+  font-size: 1.2vw; /* Esempio di dimensione del testo basata su rem */
+}
 h3 {
   font-size: 4.2vw; /* Esempio di dimensione del testo basata su rem */
 }
