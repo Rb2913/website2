@@ -1,0 +1,12 @@
+/* Utilizzo di percentuali */
+h1 {
+  font-size: 3vw; /* Esempio di dimensione del testo basata su em */
+}
+
+/* Utilizzo di em o rem */
+p {
+  font-size: 1.2vw; /* Esempio di dimensione del testo basata su rem */
+}
+h2 {
+  font-size: 2.2vw; /* Esempio di dimensione del testo basata su rem */
+}
